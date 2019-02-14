@@ -1,0 +1,14 @@
+This sample uses PLY 2.5 (http://www.dabeaz.com/ply/) Python package. You will
+need to have that installed. Please visit http://www.dabeaz.com/ply/ply.html for
+further details.
+
+
+Installation:
+
+Obtain the tarball from http://www.dabeaz.com/ply
+
+Linux, Solaris and Windows
+
+1. Extract the GUNZIP tarball
+2. Move into the extracted directory
+3. python setup.py install (super user priviliges required for system wide installation on Linux/Solaris)
